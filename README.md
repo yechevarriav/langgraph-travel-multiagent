@@ -1001,7 +1001,7 @@ Proyecto desarrollado como parte del aprendizaje de sistemas multi-agente con La
 El sistema está completamente operativo y genera itinerarios de viaje personalizados mediante la coordinación de 4 agentes especializados trabajando con LangGraph.
 
 **Versión**: 1.0  
-**Última actualización**: Octubre 2024  
+**Última actualización**: Octubre 2025  
 **Status**: Producción estable
 
 ---
